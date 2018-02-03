@@ -1,0 +1,14 @@
+#todo-input {
+    display: flex;
+    justify-content: space-between;
+}
+
+#todo-input ul {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+
+#todo-input ul li {
+    margin: 0 15px;
+}

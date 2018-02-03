@@ -1,0 +1,8 @@
+* {
+    list-style: none;
+}
+
+.renderList li {
+    display: flex;
+    justify-content: space-around;
+}
